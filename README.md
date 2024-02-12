@@ -8,4 +8,4 @@ The solutions of SQL hackerrank problems
 ---
 
 ## License
-This repository is licensed under MIT License - see [License](LICENSE.md) for more details
+This repository is licensed under MIT License - see [License](LICENSE) for more details
