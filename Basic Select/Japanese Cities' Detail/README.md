@@ -1,4 +1,4 @@
-### [Japanese Cities' Detail](https://www.hackerrank.com/challenges/japanese-cities-detail)
+### [Japanese Cities' Detail](https://www.hackerrank.com/challenges/japanese-cities-attributes)
 
 Query the details for all the Japanese cities in CITY. The COUNTRYCODE for Japan is JPN.
 
