@@ -1,4 +1,4 @@
-**[Revising Aggregations - The sum Function](https://www.hackerrank.com/challenges/revising-aggregations-the-sum-function/problem)**
+**[Revising Aggregations - The sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)**
 
 Query the total population of all cities in CITY where District is California.
 
