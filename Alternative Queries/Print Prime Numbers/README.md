@@ -1,0 +1,1 @@
+[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)
